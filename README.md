@@ -5,3 +5,4 @@ In the mean time, It cannot be built a standalone app for android, according to 
 
 https://github.com/kivy/python-for-android/issues/2675
 
+EDIT: Finally, the build works when ccache is removed.
